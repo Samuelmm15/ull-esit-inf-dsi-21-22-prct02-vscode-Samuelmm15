@@ -55,7 +55,9 @@ realizar conexiones mediante el protocolo **SSH** a través del editor. Hay que 
 completó la configuración del fichero `~/.ssh/config` de la máquina local usada, únicamente se realiza la
 conexión a la máquina virtual mediante la sentencia `ssh iaas-dsi`.
 
-Una vez se realiza la conexión a la máquina virtual de la asignatura, ya se puede realizar el [primer proyecto en TypeScript](link-para-el-primer-proyecto).
+![Conexión SSH con la máquina virtual](https://user-images.githubusercontent.com/72341631/155019036-ae412962-cd38-49cb-8ed1-aa9c3e345fe6.png)
+
+Una vez se realiza la conexión a la máquina virtual de la asignatura, ya se puede realizar el [primer proyecto en TypeScript](#id4).
 
 ## Primer proyecto en TypeScript: "Hola Mundo"<a name="id4"></a>
 
@@ -71,6 +73,8 @@ se vaya ha hacer uso, es necesaria la instalación del compilador mediante los c
 ```
 [~()]$ npm install --global typescript
 ```
+
+![Instalación de ESLint y compilador de TypeScript](https://user-images.githubusercontent.com/72341631/155019197-5b2c4cf7-8778-46f7-8a26-11e203268867.png)
 
 Con todo esto anterior cumplimentado, se da comienzo al primer proyecto desarrollado en TypeScript. Para ello,
 tras la creación de un directorio en la máquina dónde va a ser almacenado dicho proyecto, se hace uso del
@@ -99,6 +103,8 @@ Wrote to /home/usuario/directorio-ejemplo/package.json:
 }
 ```
 
+![Generación del fichero package.json](https://user-images.githubusercontent.com/72341631/155019327-26446dc9-b8de-4f0b-9d95-897b35450b22.png)
+
 Todo esto anterior genera como resultado un fichero denominado **package.json** que se trata de un archivo de
 definición o manifiesto para el proyecto, en el cual se especifican referencias al proyecto como el autor, la
 versión y sobre todo las dependencias.
@@ -116,6 +122,8 @@ compilador de TypeScript. En este fichero se deben de incluir las líneas:
   }
 }
 ```
+
+![Fichero tsconfig.json](https://user-images.githubusercontent.com/72341631/155019480-c02efc35-dded-47be-b69f-1b5260268e9b.png)
 
 Hay que tener en cuenta que en las opciones especificadas anteriormente, le indican al compilador de TypeScript
 que en primer lugar, el tipo de estándar de JavaScript el cual se quiera que el código sea compatible. A
@@ -138,12 +146,16 @@ Tras esto anterior, se compila el código en TypeScript ejecutando el comando:
 [~/directorio-ejemplo()]$ tsc
 ```
 
+![Compilación del código](https://user-images.githubusercontent.com/72341631/155019575-11ff96c1-e6ef-4d49-9418-50245d78414d.png)
+
 Para poder ejecutar el código JavaScript generado a partir del código TypeScript, se hace uso del comando:
 
 ```
 [~/directorio-ejemplo()]$ node dist/index.js
 Hola Mundo
 ```
+
+![Ejecución del código](https://user-images.githubusercontent.com/72341631/155019644-5d9c7181-d0b0-494d-a73b-8b5eb55f1e03.png)
 
 ## Extesión de Visual Studio Code **Visual Studio Live Share**<a name="id5"></a>
 
