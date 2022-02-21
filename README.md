@@ -5,4 +5,4 @@ Práctica 2. Instalación y configuración de Visual Studio Code.
 
 Name: Samuel Martín Morales \
 E-mail: alu0101359526@ull.edu.es \
-Course: Desarrollo de Sistemas Informáticos \
+Course: Desarrollo de Sistemas Informáticos 
