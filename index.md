@@ -161,3 +161,11 @@ Hola Mundo
 
 Para la correcta configuración de Visual Studio Code, se ha de instalar una extensión denominada como [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack).
 Esta extensión permite editar, depurar, chatear, compartir terminal, etc, con los compañeros de trabajo de cualquier proyecto. En este caso, para la prueba de dicha extensión he realizado una sesión con mi compañero @Daniele_Vitale dónde se ha podido probar la apertura de un fichero de código python y su ejecución. También se ha realizado una prueba del chat y de la edición de código en conjunto.
+
+Prueba del chat de la sesión:
+![Prueba del chat](https://user-images.githubusercontent.com/72341631/155025571-8ae7df2b-80a8-48d1-b3a5-89159b7bf335.png)
+
+Prueba de edición y ejecución de código:
+![Prueba de edición y ejecución de código](https://user-images.githubusercontent.com/72341631/155025743-dbd596af-7e2a-40c4-b9ec-31bfc8b3f9eb.png)
+
+
