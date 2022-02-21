@@ -168,4 +168,4 @@ Prueba del chat de la sesión:
 Prueba de edición y ejecución de código:
 ![Prueba de edición y ejecución de código](https://user-images.githubusercontent.com/72341631/155025743-dbd596af-7e2a-40c4-b9ec-31bfc8b3f9eb.png)
 
-
+En conclusión .....
