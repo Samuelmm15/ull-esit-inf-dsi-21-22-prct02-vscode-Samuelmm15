@@ -208,4 +208,10 @@ se ha tomado el proyecto seleccionado como ejemplo anteriormente, para el aprend
 la depuración de código TypeScript en Visual Studio Code.
 
 Como se puede ver en las siguientes imagenes, de esta manera se realiza la depuración de código:
+**Creación de un fichero de mapeado:**
+![Creación de un fichero de mapeado](https://user-images.githubusercontent.com/72341631/155690506-8985a59d-0640-4157-bf00-f66df08f5c88.png)
+**Configuración del fichero de depuración:**
+![Fichero de depuración](https://user-images.githubusercontent.com/72341631/155690783-763954ac-8ad8-4597-800b-554dea2c7104.png)
+
+
 
