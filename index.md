@@ -168,9 +168,23 @@ Prueba del chat de la sesión:
 Prueba de edición y ejecución de código:
 ![Prueba de edición y ejecución de código](https://user-images.githubusercontent.com/72341631/155025743-dbd596af-7e2a-40c4-b9ec-31bfc8b3f9eb.png)
 
-**En conclusión**, para esta segunda práctica de la asignatura, se ha realizado una configuración del entorno de programación 
-`Visual Studio Code` de manera que permita el desarrollo de proyectos en TypeScript de una manera mucho más cómoda y 
-eficiente. Además, se ha realizado la instalación de una extensión muy útil para realizar proyectos en equipos de trabajo. 
-Finalmente, se ha llevado a cabo el primer proyecto en TypeScript que ha permitido aprender la generación automática de 
-ficheros, como por ejemplo el fichero `package.json`, junto con aquellas opciones básicas que son útiles para el compilador 
-de TypeScript y las extensiones de los distintos ficheros que son usados para la generación de código en este lenguaje.
+**En conclusión**, para esta segunda práctica de la asignatura, se ha realizado una configuración del entorno de
+programación `Visual Studio Code` de manera que permita el desarrollo de proyectos en TypeScript de una manera mucho
+más cómoda y eficiente. Además, se ha realizado la instalación de una extensión muy útil para realizar proyectos en
+equipos de trabajo. Finalmente, se ha llevado a cabo el primer proyecto en TypeScript que ha permitido aprender la
+generación automática de ficheros, como por ejemplo el fichero `package.json`, junto con aquellas opciones básicas
+que son útiles para el compilador de TypeScript y las extensiones de los distintos ficheros que son usados para la
+generación de código en este lenguaje.
+
+## // Generación de documentación mediante TypeDoc<a name="id6"></a>
+
+Tras la visualización del [vídeo](https://drive.google.com/file/d/19LLLCuWg7u0TjjKz9q8ZhOXgbrKtPUme/view) subido al 
+aula virtual de la asigntura. Haciendo uso de un proyecto TypeScript ejemplo, se han realizado la instalación de 
+TypeDoc, que permite la generación de documentación automática con extensión `.html` para que, posteriormente pueda 
+ser usada para la realización de informes.
+
+Como se puede observar en las imagenes a continuación, se ha tomado como ejemplo, un programa que realiza la suma de 
+dos números, dónde, haciendo uso de Markdown podemos realizar comentarios y añadir información en el código que 
+después, va a ser generado de manera automática como documentación.
+
+
