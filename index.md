@@ -12,6 +12,10 @@
 
 5. [Live Share Extension Pack](#id5)
 
+6. [Generación de documentación mediante TypeDoc](#id6)
+
+7. [Uso de TypeScript debugging](#id7)
+
 ## // Pasos previos<a name="id1"></a>
 
 En esta segunda práctica de la asignatura `Desarrollo de Sistemas
@@ -178,16 +182,30 @@ generación de código en este lenguaje.
 
 ## // Generación de documentación mediante TypeDoc<a name="id6"></a>
 
-Tras la visualización del [vídeo](https://drive.google.com/file/d/19LLLCuWg7u0TjjKz9q8ZhOXgbrKtPUme/view) subido al 
-aula virtual de la asigntura. Haciendo uso de un proyecto TypeScript ejemplo, se han realizado la instalación de 
-TypeDoc, que permite la generación de documentación automática con extensión `.html` para que, posteriormente pueda 
+Tras la visualización del [vídeo](https://drive.google.com/file/d/19LLLCuWg7u0TjjKz9q8ZhOXgbrKtPUme/view)
+subido al aula virtual de la asigntura. Haciendo uso de un proyecto TypeScript ejemplo, se han
+realizado la instalación de TypeDoc, que permite la generación de documentación automática con
+extensión `.html` para que, posteriormente pueda
 ser usada para la realización de informes.
 
-Como se puede observar en las imagenes a continuación, se ha tomado como ejemplo, un programa que realiza la suma de 
-dos números, dónde, haciendo uso de Markdown podemos realizar comentarios y añadir información en el código que 
-después, va a ser generado de manera automática como documentación.
+Como se puede observar en las imagenes a continuación, se ha tomado como ejemplo, un programa
+que realiza la suma de dos números, dónde, haciendo uso de Markdown podemos realizar comentarios
+y añadir información en el código que después, va a ser generado de manera automática como
+documentación.
 
+**Creación del fichero de configuración:**
 ![Creación del documento documentación](https://user-images.githubusercontent.com/72341631/155687334-42553941-7cd5-4898-aec6-47d669a12d9a.png)
+**Generación de la documentación mediante el comando `npm run doc`:**
 ![Generación de la documentación mediante el comando npm run doc](https://user-images.githubusercontent.com/72341631/155687588-54ed51c0-1d78-4ca3-abc1-95a64480552f.png)
+**Visualización de la documentación generada:**
 ![Visualización de la documentación generada](https://user-images.githubusercontent.com/72341631/155687855-6e468c54-c023-47fd-832c-c4e498122431.png)
+
+## // Realización de TypeScript debugging en Visual Studio Code<a name="id7"></a>
+
+Después de la lectura del [documento](https://code.visualstudio.com/docs/typescript/typescript-debugging) 
+y la visualización del [vídeo](https://drive.google.com/file/d/1u9sgHc0vIwDPAKpI2QmoRQbcMpi6XZMN/view) 
+se ha tomado el proyecto seleccionado como ejemplo anteriormente, para el aprendizaje de uso de 
+la depuración de código TypeScript en Visual Studio Code.
+
+Como se puede ver en las siguientes imagenes, de esta manera se realiza la depuración de código:
 
