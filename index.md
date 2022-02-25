@@ -187,4 +187,7 @@ Como se puede observar en las imagenes a continuación, se ha tomado como ejempl
 dos números, dónde, haciendo uso de Markdown podemos realizar comentarios y añadir información en el código que 
 después, va a ser generado de manera automática como documentación.
 
+![Creación del documento documentación](https://user-images.githubusercontent.com/72341631/155687334-42553941-7cd5-4898-aec6-47d669a12d9a.png)
+![Generación de la documentación mediante el comando npm run doc](https://user-images.githubusercontent.com/72341631/155687588-54ed51c0-1d78-4ca3-abc1-95a64480552f.png)
+![Visualización de la documentación generada](https://user-images.githubusercontent.com/72341631/155687855-6e468c54-c023-47fd-832c-c4e498122431.png)
 
